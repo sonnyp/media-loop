@@ -1,0 +1,8 @@
+content medialoop content/
+locale  medialoop en-US locale/en-US/
+locale  medialoop fr-FR locale/fr-FR/
+locale  medialoop pt-BR locale/pt-BR/
+locale  medialoop uk-UA locale/uk-UA/
+locale  medialoop zh-CN locale/zh-CN
+
+overlay chrome://browser/content/browser.xul chrome://medialoop/content/browser.xul

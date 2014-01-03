@@ -1,0 +1,4 @@
+<!ENTITY mediaEnableLoop.label "Activer la lecture en boucle">
+<!ENTITY mediaEnableLoop.accesskey "A">
+<!ENTITY mediaDisableLoop.label  "Désactiver la lecture en boucle">
+<!ENTITY mediaDisableLoop.accesskey  "D">

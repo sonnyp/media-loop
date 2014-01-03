@@ -1,0 +1,4 @@
+<!ENTITY mediaEnableLoop.label "Ativar auto-reinício">
+<!ENTITY mediaEnableLoop.accesskey "A">
+<!ENTITY mediaDisableLoop.label "Desativar auto-reinício">
+<!ENTITY mediaDisableLoop.accesskey "D">

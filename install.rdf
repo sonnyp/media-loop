@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>{55e25418-16d1-47ed-beec-e72e1794628d}</em:id>
+    <em:name>Media Loop</em:name>
+    <em:version>0.2.3</em:version>
+    <em:creator>Sonny Piers</em:creator>
+    <em:description>Implements the loop attribute for HTML5 videos/audios and adds an item to control it from the context menu.</em:description>
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>3.6</em:minVersion>
+        <em:maxVersion>4.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <em:contributor>mozillazg</em:contributor>
+    <em:contributor>Володимир Савчук</em:contributor>
+    <em:contributor>Edgard Dias Magalhaes</em:contributor>
+    <em:homepageURL>https://addons.mozilla.org/addon/45730</em:homepageURL>
+  </Description>
+</RDF>
