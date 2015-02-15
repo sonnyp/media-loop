@@ -1,0 +1,15 @@
+{
+  "title": "Media Loop",
+  "id": "jid1-3r1Gf4gkKl9qJA",
+  "description": "Menu item to control audio/video loop.",
+  "author": "Sonny Piers",
+  "license": "MIT",
+  "version": "1.0.0",
+  "translators": [
+    "mozillazg",
+    "Володимир Савчук",
+    "Edgard Dias Magalhaes"
+  ],
+  "icon": "data/icon.png",
+  "homepage": "https://addons.mozilla.org/firefox/addon/media-loop/"
+}
