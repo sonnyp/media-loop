@@ -1,4 +1,6 @@
 {
+  "name": "media-loop",
+  "version": "1.0.0",
   "title": "Media Loop",
   "id": "jid1-3r1Gf4gkKl9qJA",
   "description": "Menu item to control audio/video loop.",
